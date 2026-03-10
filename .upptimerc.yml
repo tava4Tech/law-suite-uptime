@@ -15,25 +15,12 @@ assignees:
   - haiderqaizarhussain
 
 skipHomepageUpdate: true
-
-status-website:
-  name: Law Suite Status
-  theme: dark
-  baseUrl: /law-suite-uptime
-  robotsText: "User-agent: *\nDisallow: /"
-  metaTags:
-    - name: "robots"
-      content: "noindex, nofollow"
-  navbar:
-    - title: Status
-      href: /
-  introTitle: "**Law Suite** Status"
-  introMessage: "Internal uptime monitoring for the Law Suite platform."
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
 
 workflowSchedule:
   uptime: "*/5 * * * *"
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
