@@ -1,0 +1,35 @@
+owner: tava4Tech
+repo: law-suite-uptime
+user-agent: tava4Tech
+
+sites:
+  - name: Law Suite Platform (Dev)
+    url: https://app.dev.law-suite.de
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+
+assignees:
+  - haiderqaizarhussain
+
+status-website:
+  name: Law Suite Status
+  theme: dark
+  baseUrl: /law-suite-uptime
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/tava4Tech/law-suite-platform
+  introTitle: "**Law Suite** Status"
+  introMessage: "Real-time uptime monitoring for the Law Suite platform, powered by [Upptime](https://github.com/upptime/upptime)."
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
