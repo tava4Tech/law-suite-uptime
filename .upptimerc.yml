@@ -3,6 +3,13 @@ repo: law-suite-uptime
 user-agent: tava4Tech
 
 sites:
+  - name: Law Suite Platform (Prod)
+    url: https://app.law-suite.de
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
   - name: Law Suite Platform (Dev)
     url: https://app.dev.law-suite.de
     maxResponseTime: 5000
