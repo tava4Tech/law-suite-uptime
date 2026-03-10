@@ -26,7 +26,7 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 
 workflowSchedule:
-  uptime: "*/15 * * * *"
+  uptime: "*/5 * * * *"
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
   summary: "0 0 * * *"
