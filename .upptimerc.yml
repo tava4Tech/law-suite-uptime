@@ -14,17 +14,21 @@ sites:
 assignees:
   - haiderqaizarhussain
 
+skipHomepageUpdate: true
+
 status-website:
   name: Law Suite Status
   theme: dark
   baseUrl: /law-suite-uptime
+  robotsText: "User-agent: *\nDisallow: /"
+  metaTags:
+    - name: "robots"
+      content: "noindex, nofollow"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/tava4Tech/law-suite-platform
   introTitle: "**Law Suite** Status"
-  introMessage: "Real-time uptime monitoring for the Law Suite platform, powered by [Upptime](https://github.com/upptime/upptime)."
+  introMessage: "Internal uptime monitoring for the Law Suite platform."
 
 workflowSchedule:
   uptime: "*/5 * * * *"
