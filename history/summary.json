@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.law-suite.de.ico",
     "slug": "law-suite-platform-prod",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1065,
     "timeDay": 1065,
     "timeWeek": 1065,
     "timeMonth": 1065,
     "timeYear": 1065,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-11": 0
+    }
   },
   {
     "name": "Law Suite Platform (Dev)",
