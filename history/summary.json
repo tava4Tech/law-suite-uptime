@@ -5,38 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.law-suite.de.ico",
     "slug": "law-suite-platform-prod",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
-    "time": 994,
-    "timeDay": 849,
-    "timeWeek": 994,
-    "timeMonth": 994,
-    "timeYear": 994,
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 973,
+    "timeDay": 846,
+    "timeWeek": 973,
+    "timeMonth": 973,
+    "timeYear": 973,
     "dailyMinutesDown": {
       "2026-03-11": 17
-    }
-  },
-  {
-    "name": "Law Suite Platform (Dev)",
-    "url": "https://app.dev.law-suite.de",
-    "icon": "https://icons.duckduckgo.com/ip3/app.dev.law-suite.de.ico",
-    "slug": "law-suite-platform-dev",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
-    "time": 1011,
-    "timeDay": 1083,
-    "timeWeek": 1011,
-    "timeMonth": 1011,
-    "timeYear": 1011,
-    "dailyMinutesDown": {
-      "2026-03-12": 18
     }
   }
 ]
