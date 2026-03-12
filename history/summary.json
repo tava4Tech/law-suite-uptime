@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.law-suite.de.ico",
     "slug": "law-suite-platform-prod",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.22%",
     "uptimeDay": "98.80%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
-    "time": 1023,
-    "timeDay": 819,
-    "timeWeek": 1023,
-    "timeMonth": 1023,
-    "timeYear": 1023,
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
+    "time": 994,
+    "timeDay": 853,
+    "timeWeek": 994,
+    "timeMonth": 994,
+    "timeYear": 994,
     "dailyMinutesDown": {
       "2026-03-11": 17
     }
@@ -25,18 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.dev.law-suite.de.ico",
     "slug": "law-suite-platform-dev",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
-    "time": 996,
-    "timeDay": 972,
-    "timeWeek": 996,
-    "timeMonth": 996,
-    "timeYear": 996,
-    "dailyMinutesDown": {
-      "2026-03-11": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 992,
+    "timeDay": 1030,
+    "timeWeek": 992,
+    "timeMonth": 992,
+    "timeYear": 992,
+    "dailyMinutesDown": {}
   }
 ]
